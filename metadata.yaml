@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3810
     wikipedia: http://en.wikipedia.org/wiki/François_Fénelon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30779#Les-aventures-de-T-l-maque-suivies-des-aventures-d-Aritono-s
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-12-28'
 gutenberg_type: Text
