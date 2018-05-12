@@ -1,0 +1,39 @@
+_repo: Les-aventures-de-T-l-maque-suivies-des-aventures-d-Aritono-s_30779
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fénelon, François de Salignac de La Mothe-
+    aliases:
+    - Mothe-Fénelon, François de Salignac de La
+    - Motte-Fénelon, François de Salignac de La
+    - Fenelon, Francois de Salignac de la Mothe
+    - La Mothe-Fénelon, François de Salignac de
+    birthdate: 1651
+    deathdate: 1715
+    gutenberg_agent_id: '3810'
+    url: http://www.gutenberg.org/2009/agents/3810
+    wikipedia: http://en.wikipedia.org/wiki/François_Fénelon
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30779'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education of princes -- Fiction'
+- !lcsh 'Telemachus (Greek mythology) -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Princes -- Greece -- Fiction'
+title: Les aventures de Télémaque suivies des aventures d'Aritonoüs
+url: http://www.gutenberg.org/ebooks/30779
